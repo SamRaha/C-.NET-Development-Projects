@@ -1,0 +1,6 @@
+C:\Users\SamRa\OneDrive\Desktop\web_dev\C#\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\SamRa\OneDrive\Desktop\web_dev\C#\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\SamRa\OneDrive\Desktop\web_dev\C#\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\SamRa\OneDrive\Desktop\web_dev\C#\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\SamRa\OneDrive\Desktop\web_dev\C#\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\SamRa\OneDrive\Desktop\web_dev\C#\NumberGuesser\obj\Debug\NumberGuesser.pdb
